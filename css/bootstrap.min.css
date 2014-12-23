@@ -9,3 +9,12 @@
 
 a{outline: none!important;}
 *{font-family: 'Ubuntu Condensed', sans-serif!important;}
+.pay-metods li {
+    border: medium none;
+    font-size: 1.5rem;
+}
+
+.pay-metods img{
+	margin-right: 10px;
+}
+.pay-metods li.no-img{}
